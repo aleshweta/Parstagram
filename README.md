@@ -26,6 +26,4 @@ Here's a walkthrough of implemented user stories:
 
 
 
-https://user-images.githubusercontent.com/47941415/136878220-aaa5e134-392a-445a-9dc9-31b66a8637b3.mov
-
 
