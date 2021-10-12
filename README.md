@@ -15,14 +15,14 @@ The following **required** functionality is completed:
 - [x] User can take a photo, add a caption, and post it to the server. (3pt)
 - [x] User can view the last 20 posts. (4pts)
 
-The following **bonus** features are implemented:
-
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past posts infinitely. (2pts)
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
+https://user-images.githubusercontent.com/47941415/136881215-0e1390a2-114b-42e9-8616-80643ecf21ee.mov
+
+
 
 
 
