@@ -20,7 +20,11 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
-https://user-images.githubusercontent.com/47941415/136881215-0e1390a2-114b-42e9-8616-80643ecf21ee.mov
+
+
+
+
+https://user-images.githubusercontent.com/47941415/137156022-bd2e19cf-31d7-4e05-9200-9f6fa14c65ee.mov
 
 
 
